@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://wiki.osdev.org/ELF">
+      <img width="90%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Portable_Executable_32_bit_Structure.svg" />
+    </a>
+</p>
+
 # Awesome [PE](https://en.wikipedia.org/wiki/Portable_Executable) (_Portable Executable_) Internals [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
