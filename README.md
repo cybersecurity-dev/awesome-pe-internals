@@ -29,6 +29,6 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
-[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-elf-internals/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-pe-internals/graphs/contributors)!
 
-[🔼 Back to top](##awesome-elf-executable-and-linkable-format-internals-)
+[🔼 Back to top](#awesome-pe-portable-executable-internals-)
